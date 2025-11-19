@@ -6,7 +6,7 @@ Thank you for taking the time to look through my repo. I assume that if you are 
 
 ## About Me
 
-I built my first gaming computer in 2014 and since then have had an interest in learning about technology in my courses. from 3D modeling and graphic design in high school to networking and software development in college. I obtained most of my software development knowledge primarily through the following courses in college: Programming & Problem Solving I & II (Lecture & Lab), Discreet Math, Probability & Data Analysis, Introduction to Web Development, Databases & Advanced Databases, and my IT Capsone Course. I obtained my Bachelors in Information Technology in May 2024 and would love to immerse myself professionally in technology. Until then, I enjoy working on side projects and learning new things about networking and programming through home server hosting or developing practical applications.
+I built my first gaming computer in 2014 and since then have had an interest in learning about technology in my courses. From 3D modeling, graphic design, and introductory programming in high school to networking, software development, and database management in college. I obtained most of my software development knowledge primarily through the following courses in college: Programming & Problem Solving I & II (Lecture & Lab), Discreet Math, Probability & Data Analysis, Introduction to Web Development, Databases & Advanced Databases, and my IT Capsone Course. I obtained my Bachelors in Information Technology in May 2024 and would love to immerse myself professionally in technology. Until then, I enjoy working on side projects and learning new things about networking and programming through home server hosting or developing practical applications.
 
 ---
 

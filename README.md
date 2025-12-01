@@ -42,10 +42,9 @@ This was the portfolio I made over the period of my Intro to Web Development cou
 
 ## What I’m Working On
 
-I’m currently exploring:
-
-* User authentication flow and how to securely handle user login sessions.
-* The benefits of authentication providors and how their incorporation differs from handcrafting authentication flows.
+* Conducting comprehensive research on secure practices for user authentication, session management, and their integration into applications to acquire a profound understanding of secure user handling.
+* The advantages and disadvantages of utilizing authentication providers, and how integrating them programmatically into applications contrasts with manually crafting personal authentication flows.
+* Conducting research to determine the optimal hardware specifications for a NAS, planning a Raspberry Pi based NAS setup with the primary objective of optimizing file transfer speeds over a 2Gbit network, and configuring the system through the acquisition of the necessary hardware components.
 
 ---
 

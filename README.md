@@ -37,7 +37,7 @@ This was the portfolio I made over the period of my Intro to Web Development cou
 
 ## What I’m Working On
 
-Currently, I am working through a course on Boot.dev to deepen my understanding of backend engineering and grow my portfolio. Besides that, I am working on building a home server to host various services, providing access to the machine and the services through tailscale. Once I complete these, my next steps will be to work on a more self-guided software development project and pursue a Comptia A+ certification when I can afford to do so.
+Currently, I am working through a course on Boot.dev to deepen my understanding of backend engineering and grow my portfolio. Besides that, I am working on building a home server to host various services, providing access to the machine and the services through tailscale. Once I complete these, my next steps will be to work on a more self-guided software development project (most likely in web development) and pursue a Comptia A+ certification when I can afford to do so.
 
 ---
 

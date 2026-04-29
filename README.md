@@ -14,14 +14,9 @@ I built my first gaming computer in 2014 and since then have had an interest in 
 
 Below are a few projects that reflect the type of work I aim to produce. Each one ~~has~~ ***will have*** its own README with more detail (*currently in the progress of touching up my github to be more organized*).
 
-### **Project 1: User Authentication & Profile Management**
-[Repo](https://github.com/Cbushcun/login-templates)
-
-I am currently working on this project to deepen my knowledge of what goes into logging in users without an authentication provider. This project focuses on user/session creation and manipulation. Currently, a user can register and log in. Once logged in, their sessions expire every 15 minutes and are refreshed through database JWT validation, extending it up to 7 days. I am currently working on implementing the mongoose driver into a database object so that I can easily use a single database connection on the server to read and write data. This change comes from a desire to focus on OOP principles and organize my code through minimizing the amount of floading functions in my /lib directory files. There is currently no live site to view but I will be working on that in the coming days/weeks.
-
 * Built with: NextJS, MongoDB
 
-### **Project 2: IT Capstone Auction Website**
+### **Project 1: IT Capstone Auction Website**
 [Presentation Site](https://clayson1.wixsite.com/capstoneproject)
 
 [Repo](https://github.com/Cbushcun/IT-Capstone-Project)
@@ -30,7 +25,7 @@ This project was primarily a research project to investigate the capabilities of
 
 * Built with: SQLite, Flask, Azure
 
-### **Project 3: Intro to Web Development Portfolio**
+### **Project 2: Intro to Web Development Portfolio**
 [Demo Site](https://cbushcun.github.io/Intro-to-Web-Development-website/)
 [Repo](https://github.com/Cbushcun/Intro-to-Web-Development-website)
 
@@ -42,15 +37,13 @@ This was the portfolio I made over the period of my Intro to Web Development cou
 
 ## What I’m Working On
 
-* Conducting comprehensive research on secure practices for user authentication, session management, and their integration into applications to acquire a profound understanding of secure user handling.
-* The advantages and disadvantages of utilizing authentication providers, and how integrating them programmatically into applications contrasts with manually crafting personal authentication flows.
-* Conducting research to determine the optimal hardware specifications for a NAS, planning a Raspberry Pi based NAS setup with the primary objective of optimizing file transfer speeds over a 2Gbit network, and configuring the system through the acquisition of the necessary hardware components.
+Currently, I am working through a course on Boot.dev to deepen my understanding of backend engineering and grow my portfolio. Besides that, I am working on building a home server to host various services, providing access to the machine and the services through tailscale. Once I complete these, my next steps will be to work on a more self-guided software development project and pursue a Comptia A+ certification when I can afford to do so.
 
 ---
 
 ## Contact
 
-If you’re reviewing this for hiring purposes or want to talk about an idea, feel free to reach out via the info listed on my resume. I’m always open to conversations about working on projects to further develop my skills and learn new paths for me to explore.
+If you're seeing this repo, you've most likely come from a page where I am promoting myself professionally. I will not be posting my personal information on the front page of this repo but feel free to reach out to the informaiton on my resume or my linked in profile. I would love the opportunity to delve deeper into the world of backend engineering, networking, or anything similar where I can be surrounded by computers via a much needed career shift!
 
 ---
 
